@@ -1,4 +1,4 @@
-# JavaLesson
+# Java
 
 #### 001
 コンパイルと実行
